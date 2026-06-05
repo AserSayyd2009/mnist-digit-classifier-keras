@@ -139,7 +139,7 @@ matplotlib
 ```
 MNIST-CNN/
 │
-├── notebook.ipynb
+├── CNN_classification.ipynb
 ├── best_model.keras
 ├── README.md
 └── requirements.txt
