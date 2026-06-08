@@ -171,11 +171,4 @@ MNIST-CNN/
 
 This project implements a complete deep learning pipeline:
 **Data → Preprocessing → CNN → Training → Evaluation → Prediction**
-
-It is a strong foundational Computer Vision project suitable for a portfolio.
-
----
-
-## 🧪 Random Fact (Physics)
-
-Quantum tunneling allows particles to pass through energy barriers that they classically should not overcome, and it is a key mechanism behind nuclear fusion in stars.
+
